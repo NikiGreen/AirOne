@@ -1,0 +1,145 @@
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.pdb
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csprojResolveAssemblyReference.cache
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form1.resources
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Properties.Resources.resources
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csproj.GenerateResource.Cache
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form2.resources
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form3.resources
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.dll
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.dll
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.dll
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.xml
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.xml
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.xml
+D:\Бархатов\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form4.resources
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\Database1.mdf
+D:\Бархатов\TRPO KURS\AirOne\AirOne\bin\Debug\Database1_log.ldf
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\Database1.mdf
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\Database1_log.ldf
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.pdb
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.dll
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.dll
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.dll
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.EF6.dll
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.Linq.dll
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.xml
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.xml
+F:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.xml
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csprojResolveAssemblyReference.cache
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form1.resources
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form2.resources
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form3.resources
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form4.resources
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Properties.Resources.resources
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csproj.GenerateResource.Cache
+F:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form5.resources
+D:\Важное\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+D:\Важное\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+D:\Важное\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\Database1.mdf
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\Database1_log.ldf
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.pdb
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.dll
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.dll
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.xml
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.xml
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form1.resources
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form2.resources
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form3.resources
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form4.resources
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form5.resources
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Properties.Resources.resources
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csproj.GenerateResource.Cache
+D:\Новая папка (2)\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form6.resources
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\Database1.mdf
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\Database1_log.ldf
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.pdb
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.dll
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.dll
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.dll
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.EF6.dll
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.Linq.dll
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.xml
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.xml
+G:\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.xml
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csprojResolveAssemblyReference.cache
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form1.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form2.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form3.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form4.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form5.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form6.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Properties.Resources.resources
+G:\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csproj.GenerateResource.Cache
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\Database1.mdf
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\Database1_log.ldf
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.exe
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\AirOne.pdb
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.dll
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.dll
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.xml
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.xml
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csprojResolveAssemblyReference.cache
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form1.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form2.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form3.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form4.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form5.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Form6.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.Properties.Resources.resources
+D:\Курсовые\БД\TRPO KURS\AirOne\AirOne\obj\Debug\AirOne.csproj.GenerateResource.Cache
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\AirOne.exe.config
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.exe
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.pdb
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\Database1.mdf
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\Database1_log.ldf
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\AirOne.exe
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\AirOne.pdb
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\EntityFramework.dll
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.dll
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\EntityFramework.xml
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\bin\Debug\System.Data.SQLite.xml
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.csprojResolveAssemblyReference.cache
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form1.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form2.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form3.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form4.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form5.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form6.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Properties.Resources.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.csproj.GenerateResource.Cache
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form7.resources
+D:\Курсовые\БД\BD KURS\AirOne\AirOne\obj\Debug\AirOne.Form8.resources
